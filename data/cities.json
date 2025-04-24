@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "id": "de11",
+      "cityName": "Obon",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-04-22T13:58:53.173Z",
+      "notes": "gnnh",
+      "position": {
+        "lat": "40.88029480552824",
+        "lng": "-0.7505859241133451"
+      }
+    },
+    {
+      "id": "31c5",
+      "cityName": "Banon",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-04-23T15:31:08.811Z",
+      "notes": "djnveiuvfn",
+      "position": {
+        "lat": "40.86128305335483",
+        "lng": "-1.2111727525919715"
+      }
+    },
+    {
+      "id": "8a04",
+      "cityName": "Benquet",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-04-23T15:31:16.032Z",
+      "notes": "ouun",
+      "position": {
+        "lat": "43.817296011017355",
+        "lng": "-0.48959070795531634"
+      }
+    },
+    {
+      "id": "68f7",
+      "cityName": "Villaines-la-Carelle",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-04-23T15:31:22.334Z",
+      "notes": "this is an amazing experience",
+      "position": {
+        "lat": "48.39952244731406",
+        "lng": "0.2793723605307586"
+      }
+    }
+  ]
+}
